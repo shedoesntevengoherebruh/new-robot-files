@@ -116,7 +116,7 @@ int z_top = 1000; //in ACTUATION steps, from the bottom position. equivalent to 
 int Z_HOME = 4000; //comfortable height where needles are retracted and won't brush the plate, in terms of encoder steps (from the top). I.e., we don't retract the needles all the way to the maximum/top height, because that would be less efficient.
 float act_rot = 200; //the number of actuations per rotation is 800 
 float enc_rot = 4000; // the number of encoder counts per rotation is 4000
-int delaymotor = 1000; // the number of microseconds used for delays between steps.
+int delaymotor = 0; // the number of microseconds used for delays between steps.
 bool moveFlag = false;
 
 //BASED ON THE PLATE USED: MAY CHANGE
