@@ -22,11 +22,13 @@ Then, remove supports. Conservatively file down any obvious irregularities in ci
 ### 3. Assemble Carriage 1.
 - Press-fit ⅜" linear bearings in the appropriate holes (bottom left and right) of Carriage 1. You may wish to arrange Carriage 1 on its side, diagonally, around the corner of a table, for support.
 - Press-fit a black lead screw nut into the center hole of Carriage 1, filing any imprecisions conservatively as needed.
-![[IMG_1087.pdf]]
+![IMG_1078](https://github.com/user-attachments/assets/59eec3f1-efd5-4264-acdc-ae9b4b6866ae)
+
 ### 4. Attach Tray to Carriage 1.
 - **Cut two [^2]3" lengths from the lead screw stock.**
 - Slide motors into place on either end, with the cables facing to the same side (either left or right), then secure with four M3 screws.
-	![[IMG_1088.png]]
+	![IMG_1088](https://github.com/user-attachments/assets/120b88e5-9550-4d26-a335-34c6de0ef714)
+
 - Grasp the shaft of one motor and turn its flat side to face the gap at the end of the mounting area. Repeat on the other side.
 - Slide a coupler over the motor shaft (with the narrow end facing the motor) and align one vertical set of set screws with the flat side of the shaft. Holding the coupler up so that the lower screw will hit the flattened length, tighten the lower set screw with the **[^1]allen key**. ~~Ideally, the end of the motor shaft will be in the center of the coupler, so that the lead screw can be held securely within the coupler as well~~. 
 
@@ -35,12 +37,14 @@ Then, remove supports. Conservatively file down any obvious irregularities in ci
 - Partially tighten the lower set screw (of the pair aligned with the flat side of the motor shaft). Allow the coupler to slide down the shaft until the set screw hits ==the end of the flattened area== (the lowest the coupler can sit on the motor shaft). This will ensure that the top of the coupler sits below the top surface of Carriage 1, which is necessary for calibration purposes.
 - 
 - Turn the coupler and shaft so that you can tighten the second lower screw in the same manner. Repeat on the other motor.
-	![[IMG_1094.png]]
+	![IMG_1094](https://github.com/user-attachments/assets/eec40d42-8c8a-4cbb-be4f-fffcb67c81db)
 
 - Pull the motor cables towards the center so that they are not blocking the 1/4" holes in the bottom of Carriage 1. Fit one 1/4" shaft into one of the small holes in the arms at the bottom, gently tapping into place as needed on a flat surface. Repeat for the other three holes.
-	![[IMG_1095.png]]
+	![IMG_1095](https://github.com/user-attachments/assets/f3e122ff-411f-4d30-9256-c7e88526bbc6)
+
 - Slide 1/4" bearings of Tray over the 1/4" shafts until it sits on the top surface of Carriage 1.
-	![[IMG_1097.png]]
+	![IMG_1097](https://github.com/user-attachments/assets/07f84fd0-d726-4e5c-8510-f83c9b0fc11f)
+
 - Drop one of the [^2]3" lengths of lead screw through one of the lead screw nut of the tray and into the coupler. Tighten each of the upper set screws of the coupler to hold the lead screw in place. Repeat on the other side. (The two sides are now naturally aligned/in the same vertical position because they were installed while the tray was resting on the top horizontal surface of Carriage 1.) (Solid coupler was chosen over flexible couplers, as this cartesian system requires alignment. I didn't know anything about anything when I started and tried it with flexible couplers. those allowed the screws to be installed misaligned, leading to seizing/jamming issues. Ideally, these would be ⅜" to 5mm couplers. The 10mm coupler allows for ~500um misalignment, but this has not caused any perceptible issues in operation yet, perhaps due in part to the ⅜" rotary bearing on the other side.)
 
 > [!NOTE]
@@ -50,9 +54,11 @@ Then, remove supports. Conservatively file down any obvious irregularities in ci
 > Ok, what I did to get it fairly loose was to loosen the screws holding the lead screw in place, and re-set them after rotating the coupler somewhat. Also, I did not tighten the first screw ALL THE WAY, but just enough to feel resistance, then did the second one, then came back— 'IKEA-style'— to avoid pushing the lead screw in one direction or another (by that 500um or whatever.) This actually had a big impact and needs to go into the instructions later
 
 - Press fit a ⅜" rotary bearing in the center hole of each of the Carriage 1 endcaps.
-	![[IMG_1123.png]]
+	![IMG_1123](https://github.com/user-attachments/assets/b538a6f1-f9a0-4e8a-b2f3-8ecd401605c4)
+
 - Align the remaining holes with a pair of the installed 1/4" shafts, and gently tap into place, inverting onto a flat surface if needed, to press-fit the endcaps on, capturing the tray on Carriage 1.
-	![[IMG_1125.png]]
+	![IMG_1125](https://github.com/user-attachments/assets/7e3ecaaf-c1df-4b84-ac2d-19bad5611d77)
+
 ### 5. Assemble Carriage 2.
 
 > [!note]
@@ -61,7 +67,7 @@ Then, remove supports. Conservatively file down any obvious irregularities in ci
 > - also, I would maybe shorten the NEMA-17 stepper motor with encoder to just motor (for obvious reasons... but I don't want to make the table any wider!)
 
 - Press-fit the two ceramic shafts into their respective holes in Carriage 2 Endcap A, such that the shafts extend from the flat face, and are flush with the face on the opposite side of the hole. (This can be achieved by holding the endcap against the edge of a table, with the flat face upwards, the square protrusion resting against the edge of the table, and the hole intended for the shafts over the table surface.)
-	![[IMG_1126.png]]
+	![IMG_1126](https://github.com/user-attachments/assets/620eff93-cfc5-4c7f-ad62-051c486d7750)
 
 - Slide a coupler (narrow side of hole closest to the motor— like, the side designed for motor shafts should be on the motor shaft, obviously!), onto the shaft of one of the remaining motors. Align one of the vertical sets of set screws with the flat side of the shaft, then tighten both of the lower [^4] set screws to affix[^3] the coupler to the motor shaft.
 
@@ -71,11 +77,6 @@ Then, remove supports. Conservatively file down any obvious irregularities in ci
 
 - Align this motor with the square protrusion of Carriage 2 Endcap A, so that the shaft is centered in the circular hole within that square, the front face of the motor is flush with the square protrusion, and the side of the motor with the cables is facing towards the large notch/concave side of Endcap A (which will face the bottom/downwards).
 - Attach motor to (Carriage 2) Endcap A in this position with four M3 screws.
-
-> [!NOTE]
-> I don't even understand really how Greg gets the second endcap on at the correct distance. This seems really difficult and I'll ask him for guidance on a 'good' way to do it. because you can't just slide that thing over the end of Carriage 2. so.
-> 
-
 - Press fit a ⅜" rotary bearing in the center hole of Carriage 2 Endcap B. 
 - Carefully sand any obvious irregularities in the ⅜" holes in Carriage 2 Endcap B to prepare it for press-fitting.
 - Slide the ⅜" linear bearings of Carriage 1 over the ⅜" ceramic shafts of Endcap A, with the top of the tray facing opposite the large notch in Carriage 2 endcap A (large notch will point towards the table, tray needs to point upwards to carry the collection plates.)
@@ -85,8 +86,7 @@ Then, remove supports. Conservatively file down any obvious irregularities in ci
 > This step is the worst. Pretty hard to tell if there's actually a good way to do this or not. sorry.
 > 
 
-
-![[Robot Paper Bits/IMG_1131.png]]
+![IMG_1131](https://github.com/user-attachments/assets/cac43903-0f3c-4b19-af64-5c0aeb5af248)
 
 
 > [!NOTE]
@@ -95,14 +95,14 @@ Then, remove supports. Conservatively file down any obvious irregularities in ci
 > 
 
 - Press-fit ⅜" linear bearings into the circular holes in Carriage 2. Press-fit black 3D-printed lead screw nut into its slot.
-	![[IMG_1129.png]]
+	![IMG_1129](https://github.com/user-attachments/assets/b7795f4d-fe7a-43e4-89fa-13a3bcda3356)
 
 > [!NOTE]
 > I usually do it with the flat side facing the bottom of the hole, but it literally shouldn't matter either way.
 > 
 
 - ==Press-fit/snap/lock in place Endcap A and B (with the attached motor) to Carriage 2 via their corresponding slots==. ==Not sure if direction matters, it shouldn't== 
-	![[IMG_1134.png]]
+	![IMG_1134](https://github.com/user-attachments/assets/baf8f737-2fd7-4b6d-8d40-9b57200ffc59)
 
 > [!NOTE]
 >  which side they put the motor on matters for the XY motors because of the direction it turns. so we actually **do** want to recommend one of the two sides, otherwise they would have to adjust the code directionality.
